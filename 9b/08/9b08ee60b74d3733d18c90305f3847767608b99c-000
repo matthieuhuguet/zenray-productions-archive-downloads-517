@@ -1,0 +1,21 @@
+browsing…
+device: iPhone Matthieu Huguet
+session open err=Optional(Error Domain=com.apple.ImageCaptureCore Code=-9943 "Please unlock “iPhone Matthieu Huguet”" UserInfo={NSLocalizedDescription=Please unlock “iPhone Matthieu Huguet”})
+catalog: 7467 files
+to copy: 7467 (already verified: 0)
+batch done: 512/7467 ok=512 failed=0
+batch done: 1024/7467 ok=1024 failed=0
+batch done: 1536/7467 ok=1536 failed=0
+batch done: 2048/7467 ok=2048 failed=0
+batch done: 2560/7467 ok=2560 failed=0
+batch done: 3072/7467 ok=3072 failed=0
+batch done: 3584/7467 ok=3584 failed=0
+batch done: 4096/7467 ok=4096 failed=0
+batch done: 4608/7467 ok=4608 failed=0
+batch done: 5120/7467 ok=5120 failed=0
+batch done: 5632/7467 ok=5632 failed=0
+batch done: 6144/7467 ok=6144 failed=0
+batch done: 6656/7467 ok=6656 failed=0
+batch done: 7168/7467 ok=7168 failed=0
+batch done: 7467/7467 ok=7467 failed=0
+FINISHED ok=7467 failed=0 total_device=7467
